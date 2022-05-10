@@ -8,6 +8,7 @@
   * Modern and Classic version of UiPath
   * State Machines
   * OCR
+  * AI & ML in UiPath
   * Web Automation
   * Desktop Automation
   * UI Automation 
