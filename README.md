@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Pooja 
-- 👩‍💻 An RPA Developer from India
+- 👩‍💻 An Software Developer (RPA & Web) from India
 - 🏢 Currently working for ESC Utility Services Pvt. Ltd. in Trivandrum, as RPA Developer cum Senior Associate
 - 🤖 I love building Software robots and practicing on building AI integrated software robots 
 - 👉 You can visit my portfolio: https://poojababu.wixsite.com/overview to know more about me
