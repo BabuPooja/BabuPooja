@@ -3,7 +3,7 @@
 - 🏢 Currently working for ESC Utility Services Pvt. Ltd. in Trivandrum, as RPA Developer cum Senior Associate
 - 🤖 I love building Software robots and practicing on building AI integrated software robots 
 - 👉 You can visit my portfolio: https://poojababu.wixsite.com/overview to know more about me
-- 👇 Here is a list of UiPath tools I'm curently working on for RPA
+- 👇 Here is a list of UiPath automations I'm curently working on for RPA
   * UiPath Orchestrator
   * Modern and Classic version of UiPath
   * APIs-Rest
